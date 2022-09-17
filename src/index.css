@@ -33,6 +33,13 @@ header {
   width: 400px;
 }
 
+.linha {
+  background-color: rgb(7, 110, 7);
+ margin: 3%;
+  height: 1vh;
+  border: none;
+}
+
 body {
   background-color: rgb(242, 208, 146);
 }
